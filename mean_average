@@ -1,0 +1,4 @@
+import numpy as np
+height=[150,100,112,113]
+p=np.mean(height)
+print(p)

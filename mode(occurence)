@@ -1,0 +1,4 @@
+import statistics as stats
+height=[2,3,5,3,6,7]
+s=stats.mode(height)
+print(s)

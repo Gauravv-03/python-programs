@@ -1,0 +1,5 @@
+import numpy as np
+height=[150,100,112,113,56,88,1,22]
+height.sort()
+md=np.median(height)
+print(md)

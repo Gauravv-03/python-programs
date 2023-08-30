@@ -1,0 +1,4 @@
+import numpy as np
+height=[150,100,112,113,56,88,1,22]
+v=np.var(height)
+print(v)
